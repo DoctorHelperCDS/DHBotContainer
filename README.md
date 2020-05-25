@@ -1,6 +1,6 @@
 # DoctorHelper Clinical Decision Support Bot
 
-This web page that allows users to communicate with the DoctorHelper Clinical Decision Support Bot through a WebChat.
+This web page that allows users to communicate with the DoctorHelper Clinical Decision Support Bot through a WebChat. It is based on the [HealthBot Container Example](https://github.com/microsoft/HealthBotContainerSample) provided by Microsoft.
 
 **Note:** In order to use this Web Chat with the Health Bot service, you will need to obtain your Web Chat secret by going to ["Integration/Secrets"](./secrets.png) on the navigation panel.
 
