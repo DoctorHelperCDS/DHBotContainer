@@ -94,10 +94,10 @@ app.post('/chatBot',  function(req, res) {
             response['locale'] = req.query.locale;
             response['connectorToken'] = parsedBody.token;
 
-            /*
+            
             //Add any additional attributes
-            response['optionalAttributes'] = {age: 33};
-            */
+            response['optionalAttributes'] = {age: 51};
+            
 
             if (req.query.lat && req.query.long)  {
                 response['location'] = {lat: req.query.lat, long: req.query.long};
