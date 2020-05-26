@@ -81,7 +81,8 @@ function initBotConversation() {
         domain: domain
     });
     const styleOptions = {
-        botAvatarImage: 'https://docs.microsoft.com/en-us/azure/bot-service/v4sdk/media/logo_bot.svg?view=azure-bot-service-4.0',
+        // botAvatarImage: 'https://docs.microsoft.com/en-us/azure/bot-service/v4sdk/media/logo_bot.svg?view=azure-bot-service-4.0',
+        botAvatarImage: 'https://doctorhelper-my.sharepoint.com/:i:/p/jj/EVMY2ek52WJJq0jBb9hVCQIBpg9DhmP9003R4Abe_GrKCQ?e=5dVOmQ',
         // botAvatarInitials: '',
         // userAvatarImage: '',
         hideSendBox: false, /* set to true to hide the send box from the view */
